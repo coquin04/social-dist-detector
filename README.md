@@ -1,10 +1,8 @@
-# Python-Project-Template
+# Python-Social-Distance-Mesurement
 
-Example of how to organize a python project.
+Code to anilize video, detect people and mesure the distance between them.
 
 ### loading...
 
 ## External Links
 
-- [Explicit understandind of python package building 2](https://medium.com/analytics-vidhya/explicit-understanding-of-python-package-building-structuring-4ac7054c0749)
-- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/structure/)
